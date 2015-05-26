@@ -1,0 +1,9 @@
+c:\users\anna\documents\visual studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+c:\users\anna\documents\visual studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+c:\users\anna\documents\visual studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\obj\x86\Debug\ConsoleApplication14.exe
+c:\users\anna\documents\visual studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\obj\x86\Debug\ConsoleApplication14.pdb
+C:\Users\Anna\documents\visual studio 2010\Projects\ConsoleApplication14\ConsoleApplication14\obj\x86\Debug\ConsoleApplication14.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\Events_Mechanics\ConsoleApplication14\obj\x86\Debug\ConsoleApplication14.exe
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\Events_Mechanics\ConsoleApplication14\obj\x86\Debug\ConsoleApplication14.pdb
+C:\Users\Anna\ProjectsGitHub\CarRepairService\Mechanics\ConsoleApplication14\obj\x86\Debug\ConsoleApplication14.exe
+C:\Users\Anna\ProjectsGitHub\CarRepairService\Mechanics\ConsoleApplication14\obj\x86\Debug\ConsoleApplication14.pdb
